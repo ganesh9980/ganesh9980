@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Ganesh B.tech 3rd year CSE student
+## I'm Ganesh B.tech 3rd year CSE student
 
 - 🔭 I’m currently working on ML Projects
 - 🌱 I’m currently learning C++
