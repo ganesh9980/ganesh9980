@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 ### Connect With Me:
 
-[<img align="left" alt="Bhaskar-R | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 [<img align="left" alt="Ganesh-R | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Bhaskar-R | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Bhaskar-R | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[twitter]: https://twitter.com/bhaskar9980
-[instagram]: https://www.instagram.com/bhaskar_51/
+[twitter]: https://twitter.com/Ganesh63330267
+[instagram]: https://www.instagram.com/ganesh99802/
 [linkedin]: https://www.linkedin.com/in/ganesh-r-06b813173/
