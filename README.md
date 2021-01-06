@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 [instagram]: https://www.instagram.com/ganesh99802/
 [linkedin]: https://www.linkedin.com/in/ganesh-r-06b813173/
 
-![](https://visitor-badge.glitch.me/badge?page_id=Bhaskar-R.Bhaskar-R)
+
