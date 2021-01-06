@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="Ganesh-R | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Bhaskar-R | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+[twitter]: https://twitter.com/bhaskar9980
+[instagram]: https://www.instagram.com/bhaskar_51/
+[linkedin]: https://www.linkedin.com/in/ganesh-r-06b813173/
