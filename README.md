@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-## I'm Ganesh B.Tech 3rd year CSE student
+## I'm Ganesh B.Tech 4th year CSE student
 
-- 🔭 I’m currently working on ML Projects
-- 🌱 I’m currently learning C++
+- 🔭 I’m currently working on my skills
 - 👯 I’m looking to collaborate on Projects
 - 📫 How to reach me: U can reach me through LinkedIn
 
