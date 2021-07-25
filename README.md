@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 [twitter]: https://twitter.com/Ganesh63330267
 [instagram]: https://www.instagram.com/ganesh99802/
-[linkedin]: https://www.linkedin.com/in/ganesh-r-06b813173/
+[linkedin]: https://www.linkedin.com/in/ganeshrongali/
 </br>
