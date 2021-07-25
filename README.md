@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="Ganesh-R | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [twitter]: https://twitter.com/Ganesh63330267
-[instagram]: https://www.instagram.com/ganesh99802/
+[instagram]: https://www.instagram.com/ganesh_r28/
 [linkedin]: https://www.linkedin.com/in/ganeshrongali/
 </br>
