@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-## I'm Ganesh a Software Engineer
+## I'm Ganesh 
+# Working as a Software Engineer in a start-up based company
 
 - 🔭 I’m currently working on my skills
 - 👯 I’m looking to collaborate on Projects
