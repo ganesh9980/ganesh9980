@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Ganesh B.Tech 4th year CSE student
+## I'm Ganesh a Software Engineer
 
 - 🔭 I’m currently working on my skills
 - 👯 I’m looking to collaborate on Projects
